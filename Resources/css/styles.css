@@ -8,7 +8,6 @@ img{
   -khtml-user-drag: none;
   -moz-user-drag: none;
   -o-user-drag: none;
-  user-drag: none;
 }
 
 /* BootStrap Overriding */
@@ -50,13 +49,13 @@ img{
 }
 
 .btn-success{
-	background-color: #17C671;
-	border-color:#17C671;
+	background-color: rgb(23, 128, 198);
+	border-color:rgb(26, 132, 202);
 }
 
 .btn-success:hover{
-    background-color: #14af64;
-    border-color: #14af64;
+	background-color: rgb(29, 141, 216);
+	border-color:rgb(38, 153, 230);
     box-shadow: 0 5px 15px rgba(0,0,0,.05), 0 4px 10px rgba(23,198,113,.25);
 }
 
